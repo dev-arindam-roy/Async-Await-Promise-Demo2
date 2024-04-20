@@ -1,6 +1,6 @@
 # Async - Await - Promise
 
-## Demo 1
+## Demo 2
 
 [Check It...](https://dev-arindam-roy.github.io/Async-Await-Promise-Demo2/)
 
