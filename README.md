@@ -2,7 +2,7 @@
 
 ## Demo 1
 
-[Check It...](https://dev-arindam-roy.github.io/async-await-promise-demo1/)
+[Check It...](https://dev-arindam-roy.github.io/Async-Await-Promise-Demo2/)
 
 ```js
 const userLogin = (isApiCallOk = 1, timeTaken = 5000) => {
